@@ -20,7 +20,7 @@ For the cognitive service side, I need to do the following,
 
 Im sure that a future version of VS will make binding to there cognitive services or rest api's much easier, like they did web services... but until they do, we have this :) (or this is a future project for myself
 
-#Llearnings
+# Learnings
 + REST API
 + Cogintive Services
 + tokenRequest
