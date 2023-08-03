@@ -1,4 +1,4 @@
-# TTW
+# ⛔️ DEPRECATED TTW
 Microsoft Cognitive Services Text Translation wrapper
 This is a wrapper DLL for Microsoft's new Cognitive Services API, when working with the text translation service. 
 
